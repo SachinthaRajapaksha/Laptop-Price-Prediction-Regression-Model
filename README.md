@@ -39,6 +39,6 @@ A web application was developed using **Flask** to make the model accessible to 
 
 ### UI
 
-
+![ui](https://github.com/SachinthaRajapaksha/Laptop-Price-Prediction-Regression-Model/blob/main/image.PNG)
 
 
